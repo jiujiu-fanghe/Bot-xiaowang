@@ -1,0 +1,9 @@
+[2023-02-13 19:37:56] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-02-13 19:37:56] [WARNING]: 将在 5秒 后继续. 
+[2023-02-13 19:38:01] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-02-13 19:38:27] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-02-13 19:38:27] [WARNING]: 将在 5秒 后继续. 
+[2023-02-13 19:38:32] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-02-13 19:38:47] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-02-13 19:38:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2023-02-13 19:38:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 

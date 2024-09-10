@@ -53,14 +53,6 @@ async def _():
 
 
 
-#博客------问答
-day_boke = on_keyword({'博客','小王博客','xwsfw','学习','看博客'})
-@day_boke.handle()
-async def _():
-    await day_boke.finish(Message('https://www.cnblogs.com/xwsfw/'))
-
-
-
 
 # 爱心-------问答
 day_love = on_keyword({'爱心',"love"})
